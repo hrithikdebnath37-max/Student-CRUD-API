@@ -1,4 +1,4 @@
-# Student Management API
+# Student CRUD API
 
 A RESTful Student Management API built with **Node.js, Express.js, MongoDB, and Mongoose**. This project provides user authentication, JWT-based authorization, and complete CRUD operations for managing student records.
 
